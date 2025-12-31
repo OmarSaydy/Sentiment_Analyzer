@@ -1,0 +1,5 @@
+streamlit
+nltk
+speechrecognition
+pydub
+streamlit-audiorec
